@@ -15,9 +15,9 @@ driver = webdriver.Chrome(service=service)
 bb_url = "https://blackboard.cmich.edu/ultra/course"
 
 # Login credentials
-email = "ralla1s@cmich.edu"
-global_id = "ralla1s"
-password = "ShivaKarthik@2311"
+email = ""
+global_id = ""
+password = ""
 
 # Open Blackboard
 driver.get(bb_url)
